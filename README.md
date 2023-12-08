@@ -1,2 +1,2 @@
 # crm-dashboard
-Тестове завдання сторінка Customers
+Тестове завдання CRM Dashboard сторінка Customers
